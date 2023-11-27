@@ -1,4 +1,19 @@
+下面是参考
+
+[GIT: A Generative Image-to-text Transformer for Vision and Language](https://arxiv.org/abs/2205.14100). 的库
+
+
+
+本人配置:
+
+RTX  3090  pytorch 1.11.0 CUDA 11.3 
+
+我提供了环境的yml文件，可供使用
+
+
+
 # Introduction
+
 This repo presents some example codes to reproduce some results in
 [GIT: A Generative Image-to-text Transformer for Vision and Language](https://arxiv.org/abs/2205.14100).
 
